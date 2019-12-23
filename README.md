@@ -1,15 +1,15 @@
-# DelaySyncer
+# ApiEnhancer
 
 ## Introduction
 
-> This Plugin helps to sync in delayed threads of a server and synced in movements ingame
+> This Plugin helps to update outdated API links and code ingame.
 
 
 
 
 ## Code Samples
 
-> https://imgur.com/a/YTXeVLP
+> https://imgur.com/a/NoC9yiH
 
 ## Installation
 
@@ -21,8 +21,10 @@ To install just download and move it on your PLUGIN folder and do /reload or /re
 >
 - Improved Thread Detection
 - Added Syncing Usage
+- API Threading 
+- API Update Check
 
 ## Commands
 
 >
-- /delaysyncer - Enables delaysyncing for lag free experience
+- /api-update - Enables API Update check for error free experience
